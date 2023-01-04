@@ -36,8 +36,7 @@ Step 7: Observe DHCP Traffic
 
 <h2>Actions and Observations</h2>
 
-![image](https://user-images.githubusercontent.com/117492330/210496296-24d1153d-cd7a-4eb5-aaaa-a6125e9ae337.png)<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-![image](https://user-images.githubusercontent.com/117492330/210496692-331ac02f-5ca0-4218-bd9d-512802da987e.png)
+
 Step 1: Create two Vitrual Machines in Azure: Log into the Microsoft Azure Portal with your Microsoft Account --> search "resource groups" in the search bar --> "create" resource group --> search "Virtual Machines" in the search bar --> "create" two Virtual Machines with the following OS: Windows 10 OS for VM1 & Ubuntu OS for VM2) --> Make sure both VMs are in the same "resource group". *When setting up the VMs remember the username and password that you use. You'll need this information later to remote desktop into the VMs. I recommend using the same login information for both VMs.</p>
 <br />
 
