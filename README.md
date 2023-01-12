@@ -41,7 +41,7 @@ Step 1: Create two Vitrual Machines in Azure: Log into the Microsoft Azure Porta
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/3pW6gKO.png
 </p>
 <p>Step 2: Remote Desktop into each "Virtual Machine". Go to --> VM1 settings --> copy "public IP address" --> search "remote desktop connections" in start menu search bar --> Open "Remote Desktop Connection" & paste copied IP address from VM1 --> click connect --> Use the Username & Password created in step 1 to sign in to the VM. Repeat the same steps to log into VM2.
 </p>
